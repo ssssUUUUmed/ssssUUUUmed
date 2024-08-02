@@ -21,7 +21,7 @@
 - Discrod: @sumed110024
 
 📫 **How to reach me:**
-- My donate alerts: [A]([https://yourblog.com](https://www.donationalerts.com/r/sssssumed))
+- My donate alerts: [donate](https://www.donationalerts.com/r/sssssumed)
 
 ---
 
