@@ -1,5 +1,3 @@
-![Header](https://github.com/ssssUUUUmed/ssssUUUUmed/blob/main/assets/header.png)
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Code-C%23-purple?style=for-the-badge&logo=csharp"/>
@@ -32,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
-  </p>
+</p>
 
 ## 🛠️ Languages and Tools:
 
