@@ -16,7 +16,7 @@
 - Game development.
 
 💬 **Contact Me:**
-- Telegram: @sum241
+- Telegram: @suumedd
 - Email: m.ivanov_24@mail.ru
 - Discrod: @sumed110024
 
